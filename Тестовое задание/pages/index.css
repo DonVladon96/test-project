@@ -1,0 +1,8 @@
+@import url(../blocks/body-container/body-container.css);
+@import url(../blocks/shapes-container/shapes-container.css);
+@import url(../blocks/shapes-container/__circle/shapes-container__circle.css);
+@import url(../blocks/shapes-container/__rectangle/shapes-container__rectangle.css);
+@import url(../blocks/shapes-container/__circle-mini/shapes-container__circle-mini.css);
+@import url(../blocks/shapes-container/__oval/shapes-container__oval.css);
+@import url(../blocks/shapes-container/__triangle/shapes-container__triangle.css);
+@import url(../blocks/footer/footer__copyright.css);
