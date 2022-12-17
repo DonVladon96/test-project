@@ -1,0 +1,12 @@
+.shapes-container__circle {
+  width: 320px;
+  height: 320px;
+  background: rgb(36, 132, 86);
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 163px;
+  position: absolute;
+  top: -106px;
+  left: -93px;
+  z-index: 1;
+}

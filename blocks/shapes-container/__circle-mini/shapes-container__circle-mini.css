@@ -1,0 +1,10 @@
+.shapes-container__circle-mini {
+    width: 100px;
+    height: 100px;
+    background: rgb(12, 165, 101);
+    border-radius: 50px;
+    position: absolute;
+    top: 137px;
+    margin-left: 225px;
+    z-index: 3;
+}
